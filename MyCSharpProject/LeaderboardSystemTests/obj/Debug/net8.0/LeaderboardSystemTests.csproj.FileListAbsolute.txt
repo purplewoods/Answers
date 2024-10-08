@@ -1,0 +1,14 @@
+F:\MyCSharpProject\LeaderboardSystemTests\bin\Debug\net8.0\LeaderboardSystemTests.exe
+F:\MyCSharpProject\LeaderboardSystemTests\bin\Debug\net8.0\LeaderboardSystemTests.deps.json
+F:\MyCSharpProject\LeaderboardSystemTests\bin\Debug\net8.0\LeaderboardSystemTests.runtimeconfig.json
+F:\MyCSharpProject\LeaderboardSystemTests\bin\Debug\net8.0\LeaderboardSystemTests.dll
+F:\MyCSharpProject\LeaderboardSystemTests\bin\Debug\net8.0\LeaderboardSystemTests.pdb
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.AssemblyInfoInputs.cache
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.AssemblyInfo.cs
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.csproj.CoreCompileInputs.cache
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.dll
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\refint\LeaderboardSystemTests.dll
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.pdb
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\LeaderboardSystemTests.genruntimeconfig.cache
+F:\MyCSharpProject\LeaderboardSystemTests\obj\Debug\net8.0\ref\LeaderboardSystemTests.dll
